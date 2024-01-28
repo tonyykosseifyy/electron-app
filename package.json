@@ -6,7 +6,8 @@
   "author": "Tony Kosseify",
   "license": "MIT",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "start:dev": "electronmon ."
   },
   "devDependencies": {
     "electron": "^28.2.0"
