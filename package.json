@@ -4,5 +4,11 @@
   "description": "CMS for lau event app",
   "main": "main.js",
   "author": "Tony Kosseify",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^28.2.0"
+  }
 }
